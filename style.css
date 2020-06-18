@@ -1,0 +1,41 @@
+* { 
+	margin: 0; 
+	padding: 0; 
+}
+body {
+    background: url(https://i.pinimg.com/originals/4c/cd/06/4ccd0676f0fe8ca28bac2913db224a2f.jpg);
+    font-family: Arial, Helvetica, sans-serif;
+    line-height: 40px;
+}
+
+legend {
+font-weight: bold;
+font-family: 'M PLUS 1p', sans-serif;
+}
+fieldset {
+    margin: 114px auto;
+    width: 800px;
+    padding: 8px 15px 15px 15px;
+    background-color: #F5D5D2 ;
+    border:4px solid #F4D03F;
+    height: 600px;
+}
+
+button {
+    display: inline-block;
+    padding: 0.35em 1.2em;
+    border:0.1em solid #FFFFFF;
+    margin-left: 350px;
+    border-radius:0.12em;
+    box-sizing: border-box;
+    font-family: 'M PLUS 1p', sans-serif;
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+    transition: all 0.15s;
+    font-weight: bold;
+}
+button:hover {
+color: black;
+background-color: #FFFFFF;
+}
